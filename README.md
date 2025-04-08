@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zetayede-learn
-- 👀 I’m interested in visualized data, actually just started today, 20250408. 
+- 👀 I’m interested in visualized data. its still amazes me.
 - 🌱 I’m currently learning All the basic. and someone said it start with python. so i will start with Python
 - 💞️ I’m looking to collaborate on everything you want me to hop and join in.
 - 📫 How to reach me, its kinda hard,but how about email me? zetayede@gmail.com
